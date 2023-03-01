@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../noz.dev"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "projetoPotfolio"
+	}
+}
